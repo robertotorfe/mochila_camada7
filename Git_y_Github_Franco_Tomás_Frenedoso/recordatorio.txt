@@ -1,0 +1,10 @@
+$ git init Creará un nuevo repositorio local GIT. Usando git init [nombre del proyecto] También puedes crear un repositorio dentro de un directorio especificando el nombre del proyecto.
+$ git clone Lo usas para clonar un repositorio.
+$ git add Lo usas para agregar archivos al área de de preparación.
+$ git commit Lo usas para crear un cambio que se guardará en el directorio git.
+$ git config Lo usas para establecer una configuración específica de usuario, podría ser el email, usuario o tipo de formato.
+$ git status Lo usas para que muestre la lista de archivos que has cambiado, junto con archivos que serán preparados y confirmados.
+$ git push Lo usas para enviar confirmaciones a la rama maestra/principal del repositorio remoto.
+$git remote Nos permite ver todos los repositorios remotos.
+$git checkout Nos permite crear ramas y navegar entre ellas.
+$git pull Lo usas para fusionar todos los cambios que hiciste en el repositorio local con el directorio de trabajo local.
