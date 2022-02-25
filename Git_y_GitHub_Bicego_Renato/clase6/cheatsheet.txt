@@ -1,0 +1,46 @@
+1) Crear un reposi­torio local en la carpeta del proyecto.
+$ git init
+
+2) Añadir al reposi­torio local los archivos que se encuentran en la carpeta del proyecto.
+$ git add .
+$ git add archivo
+
+3) Realizar el commit de los archivos que están en staging area.
+$ git commit -m "­­Mensaje"
+
+4) Configurar el nombre de usuario para todo el sistema
+$ git config --global user.name ­my_­use­rna­me
+
+5) Configurar el nombre de usuario solo para el reposi­torio actual
+$ git config user.name ­my_­use­rna­me
+
+6) Configurar el email para todo el sistema
+$ git config --global user.email my_­ema­il
+
+7) Configurar el email solo para el reposi­torio actual
+$ git config user.email my_­ema­il
+
+8) Ver la situación actual de los archivos
+$ git status
+
+9) Ver todos los commits
+$ git log
+
+Si se quiere subir a un reposi­torio remoto (Github):
+10) Clonar un repositorio existente
+$ git clone repos­­ito­­ry­_­u­rl­.g­it
+
+11) Conectar el reposi­­torio local con un reposi­­torio remoto (en GitHub)**
+$ git remote add origin repos­­ito­­ry­_­u­rl­.g­it
+
+12) Subir los últimos cambios del reposi­­torio local al reposi­­torio remoto
+$ git push origin branch­­_na­me
+
+13) Crear una nueva rama (branch)
+$ git branch new_b­­ran­­ch­_­nam­e
+
+14) Ver todas las ramas del reposi­­torio
+$ git branch
+
+15) Cambiar de rama a donde se quiere subir el archivo
+$ git checkout branc­­h_n­ame
