@@ -1,0 +1,2 @@
+Es un proyecto de Linus Torvald, para ser utilizado en el desarollo del Kernel de Linux.
+Pertenece a Microsoft y fue adquirido porque es el mayor repositorio
