@@ -1,0 +1,10 @@
+1-Quien invento el sitema de version de Git y porque?
+Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+2-A quien pertenece actualmente github?
+la compra fue justificada para acelerar el uso empresarial de GitHub y llevar las 
+herramientas y servicios para desarrolladores de Microsoft a nuevas audiencias.
+
+
+3-Hay otra fomra de trabjar con github sin utilizar la consola?
+Si hay otros programas por ejemplo el Tortoise, implementado por windows shell extension. En  el buscador internet explorer,el mismo  el status de las ramas de trabajo de github y archivos.
