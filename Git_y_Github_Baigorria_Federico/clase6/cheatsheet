@@ -1,0 +1,4 @@
+"Clonar un repositorio existente"		| $ git clone ssh://usuario@domain.com/repo.git
+"Crear un repositorio local"			| $ git init
+"Consultar estados de los archivos y carpetas"	| $ git status
+"Mover archivos del estado Untraked a Staged"	| $ git add .
