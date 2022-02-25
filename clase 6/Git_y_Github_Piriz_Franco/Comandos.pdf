@@ -1,0 +1,19 @@
+$ git commit -m "(nombre del cambio)"
+Registra los cambios del archivo permanentemente en el historial de versión
+$ git config --global user.name "(nombre de usuario)"Establece el nombre que desea esté anexado a sus transacciones de commit
+$ git config --global user.email "(direccion de email)"
+Establece el e-mail que desea esté anexado a sus transacciones de commit
+$ git init Crea un nuevo repositorio local
+$ git clone (url) Descarga un proyecto y toda su historia de versión
+$ git branch Enumera todas las ramas en el repositorio actual
+$ git branch (nombre_rama) Crea una nueva rama
+$ git checkout (rama)Cambia a la rama especificada y actualiza el directorio activo
+$ git merge (rama) Combina el historial de la rama especificada con la rama actual
+$ git log Enumera el historial de la versión para la rama actual
+$ git push origin (rama) Carga todos los commits de la rama local al GitHub
+$ git pull descarga e incorpora cambios hechos en el repositorio
+$ ls muestra las carpetas y archivos existentes en el lugar donde estemos parados
+$ mkdir (nombre) crea carpetas
+cd (ruta) cambia de carpetas
+touch (nombre) sirve para crear archivos
+$ git add ( . ) agrega todos los cambios al repositorio actual y los prepara para ser commiteados
