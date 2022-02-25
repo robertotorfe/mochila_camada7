@@ -1,0 +1,3 @@
+a) Linus Torvalds lo creó para tener un software de gestión de versiones open source.
+b) Microsoft compró GitHub en el año 2018
+c) Sí, se puede hacer desde Visual Studio Code y GiHub Desktop
