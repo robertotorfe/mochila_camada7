@@ -1,0 +1,3 @@
+a- Es un proyecto de Linus Torvalds, para ser utilizado en el desarrollo del Kernel de linux.
+b- Pertenece a Microsoft y fue adquirido por que es el mayor repositorio de codigo del mundo.
+c- Si, se pueden utilizar con los IDEs en modo grafico.
