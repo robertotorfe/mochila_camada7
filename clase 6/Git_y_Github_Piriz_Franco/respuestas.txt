@@ -1,0 +1,10 @@
+a. El sistema de control de version de código abierto fue desarrollado
+ por Linus Torvalds, quien fue tambien creador del sistema operativo 
+ Linux con el fin de generar eficiencia,confiabilidad y compatibilidad 
+ del mantenimiento de versiones de aplicaciones cuando estas tienen un 
+ gran número de archivos de código fuente.
+b. Github actualmente pertenece a Microsoft Microsoft quienes
+aseguran que GitHub mantendrá su distintivo enfoque de anteponer 
+ a los desarrolladores ofreciendo una plataforma abierta 
+ a todos los desarrolladores e industrias.
+ c. otra forma de trabajar con GitHub que no sea la terminal es usando GitHub Desktop.
