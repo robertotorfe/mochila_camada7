@@ -1,0 +1,12 @@
+Clonar un repositorio existente: git clone ssh://usuario@domain.com/repo.git
+crear un nuevo repositorio local: git init
+Establecer usuario: git config-global user.name"nombre de usuario"
+Establecer mail: git config-global user.email"email@email.com"
+verificar el estado de los archivos o directorios: git status
+añadir un archivo: git add "archivo"
+añadir todos los archivos: git add . (punto)
+commitear un archivo o directorio: git commit "archivo" -m "mensaje del commit"
+actualizar el repositorio local en base al remoto: git pull 
+actualizar el repositorio remoto en base al local: git push
+crear una nueva rama: git branch "nombre"
+moverme de rama: git checkout "nombre"
