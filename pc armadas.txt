@@ -1,0 +1,56 @@
+GAMA BAJA
+
+Procesador Core i3 7100
+Placa madre Motherboard Asus Prime A320m-k
+Memoria principal Memoria Ram Pc Ddr3 4gb 1333 Aconcawa 2 X 2gb
+Memoria secundaria Disco Rigido Seagate 250gb Pc 72000rpm
+
+Procesador Ryzen 3 2200g
+Placa madre Mother Asus Prime A320m-k
+Memoria ram Value Select color verde 4GB
+Memoria secundaria Western Digital WD Scorpio Blue WD3200BPVT 320 GB
+
+Procesador AMD Athlon 3000G procesador 3.5 GHz
+Placa madre Motherboard Gigabyte A320m-h
+Memoria principal Memorias Sodimm Notebook Netbook Ddr3 4 Gb 1333 Mhz 1.35v
+Memoria secundaria Disco rigido 1tb skyhawk
+
+GAMA MEDIA 
+
+Procesador Procesador Intel Core I5-12600K
+Placa madre Motherboard Asus Prime B460m-a S1200 Intel B460 Hdmi R2.0
+Memoria principal DDR4 8GB KINGSTON 2666MHZ HYPERX FURY
+Memoria secundaria Disco sólido interno Kingston SA400S37/480G 480GB 
+GPU GeForce GT 1030 2GD4 LP OC
+
+Procesador AMD Ryzen 5 3600
+Placa madre A320M Asrock
+Memoria principal DDR4 8GB KINGSTON 2666MHZ HYPERX FURY
+Memoria secundaria Disco Ssd 500gb Hp Sata Iii 2.5
+GPU Placa De Video Nvidia Msi Geforce Gtx 1050ti Oc Dual Fan 4gb
+
+Procesador AMD Ryzen 5 3600xt
+Placa madre Mother Asus Prime B450m-aii Am4 Ryzen Rgb
+Memoria principal Memoria RAM Gammix D30 gamer color black 8GB 1 XPG
+Memoria secundaria Disco sólido interno Crucial CT1000BX500SSD1 1TB
+GPU AMD Radeon RX 580 2048SP 8 GB
+
+GAMA ALTA
+
+Procesador Core i7-10700
+Placa Madre Placa Madre Motherboard Asus Tuf Gaming B550m-plus
+Memoria principal Memorias Gamers Ddr4 16gb 3600 Mhz
+Memoria secundaria Disco sólido interno Western Digital WDS200T2B0A 2TB azul
+GPU Tarjeta Grafica Msi Rtx 3090 Ventus 3x 24g Oc 30 Series
+
+Procesador Amd Ryzen 7 3800xt
+Placa Madre Motherboard Asus Tuf Gaming B450m-plus Ii Am4 Ddr4 Ryzen Qos
+Memoria principal Memoria RAM Fury Beast DDR4 gamer color negro 16GB 1 Kingston
+Memoria secundaria Disco sólido interno Western Digital WD Black SN750 WDS200T3X0C 2TB negro
+GPU Tarjeta Grafica Asrock Radeon Rx 5700xt 8gb Phantom Gaming
+
+Procesador Procesador Amd Ryzen 9 5900x 4.8ghz Turbo Am4
+Placa Madre Motherboard Msi X570-a Pro Ddr4 Hdmi Am4
+Memoria principal Memorias Gamers Ddr4 16gb 3600 Mhz
+Memoria secundaria Disco Sólido Interno Xpg Spectrix S40g As40g-2tt-c 2tb Rgb
+GPU Placa De Video Nvidia Evga Geforce Rtx 3080 Ti Ftw3 Ultra 12gb Gddr6x Lhr
