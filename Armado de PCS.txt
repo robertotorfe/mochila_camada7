@@ -1,0 +1,65 @@
+GAMA BAJA - Intel 
+Procesador: Core i3 7100
+Placa madre: Motherboard Asus Prime A320m-k
+Memoria Principal: x2 Memorias ram 4gb 2400mhz
+Memoria Secundaria: Disco hhd 250gb
+
+
+GAMA BAJA - AMD
+Procesador: Ryzen 3 2200g
+Placa madre: Motherboard Asus Prime A520m-a
+Memoria Principal: x2 Memorias ram 4gb 2200mhz DDR4
+Memoria Secundaria: Disco hhd 500gb
+
+
+GAMA BAJA:
+
+Procesador: i3 9100
+Placa madre: Mother Asrock B360M
+Memoria Principal: 1x memoria ram ddr4 8gb 2400Mhz
+Memoria Secundaria: Disco hhd
+
+GAMA MEDIA - INTEL
+
+Procesador: Procesador Intel core i5 9400
+Placa madre: Mother Asrock B365M
+Memoria Principal: 1x Memoria Adata DDR4 8GB 2666MHz
+Memoria Secundaria: Disco Rigido 1TB
+GPU: Geforce GT 1030 2GD4 LP OC
+
+GAMA MEDIA - AMD
+Procesador: Procesador AMD Ryzen 5 3600
+Placa madre: A320M Asrock
+Memoria Principal: X2 Memorias ram DDR4 8gb 2666mhz
+Memoria Secundaria: Disco Solido SSD 240GB
+GPU:  Placa de Video GeForce GTX 1650 4GB GDDR6 
+
+GAMA MEDIA 
+
+Procesador: Procesador i7 9700F 4.7 ghz
+Placa madre: Mother ASUS PRIME H310M-R
+Memoria Principal: 1x Memoria ram 8gb ddr4 3000mhz
+Memoria Secundaria: Disco HHD 1TB Disco solido SSD 240gb
+GPU: Placa De video GTX 1660 6GB GDDR5
+
+GAMA ALTA - INTEL
+Procesador: Core i7-10700
+Placa madre: Mother ASUS PRIME B460M-A
+Memoria Principal: x2 Memorias 8GB Ram 3600mhz
+Memoria Secundaria: Disco Rigido hhd 1TB + Disco solido SSD 500GB
+GPU: Placa de video 2060 6 gb
+
+GAMA ALTA - AMD
+ 
+Procesador: Amd Ryzen 7 3800xt
+Placa madre: Mother Asrock B550M
+Memoria Principal: X2 Memorias RAM 16gb 3200 mhz DDR4
+Memoria Secundaria: Disco hhd 4TB + Disco SSD 1tb
+GPU: Placa de Video MSI GeForce RTX 3070 Ti 8GB GDDR6X
+
+GAMA ALTA
+Procesador: AMD Ryzen 9 5900X
+Placa Madre: Mother Asrock B550 PG
+Memoria Principal: Memoria Ram x2 16gb 3600mhz ddr4
+Memoria Secundaria: Disco HHD WD 14TB + Disco SSD 2TB
+GPU: Placa de video geforce RTX 3090 24gb GDDR6X OC
