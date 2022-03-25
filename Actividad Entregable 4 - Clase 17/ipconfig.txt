@@ -1,0 +1,6 @@
+IP Publica: 45.228.188.195
+IP Privada: 192.168.2.101
+Mascara de subred: 255.255.255.0
+MAC: 14-5A-FC-11-A5-8D
+
+https://padlet.com/PedagogiaDH/fv3erfy90u2nwof4
