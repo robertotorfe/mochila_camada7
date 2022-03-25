@@ -1,0 +1,3 @@
+La ip publica es de tipo B ya que es mayor que 128 y menor que 192. Mientras que la ip privada es tipo C ya que supera 192
+
+Con la direccion MAC podemos identificar la totalidad de dispositivos de red, en mi caso ASUSTek COMPUTER INC.
