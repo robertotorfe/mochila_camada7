@@ -1,0 +1,14 @@
+
+
+
+IP Privada
+192.168.0.106
+
+Mascara subred
+255.255.255.0
+
+MAC
+24-4B-FE-7D-AB-58
+
+IP Publica
+201.231.184.188
