@@ -1,0 +1,7 @@
+﻿Renato Bicego
+IP pública: 191.82.2.195
+IP privada: 192.168.56.1
+Máscara de subred: 255.255.255.0
+MAC: 30-24-A9-0B-78-40
+La IP pública y privada son de clase C.
+La información que obtengo de la MAC es que mi placa de red fue fabricada por HP inc.
