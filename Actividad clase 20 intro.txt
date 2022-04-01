@@ -1,0 +1,26 @@
+1P. En Opera (o cualquier browser sin VPN) debemos consultar nuestra direccion IP publica y anotar.
+1R. 191.82.46.135
+2P. En Opera con VPN activada debemos consular nuestra ip y consultar su geolocalización (podemos hacerlo desde la pagina cual es mi IP) y anotar.
+2R. 77.111.246.40 (Estados Unidos)
+3P. Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.
+3R. 23.129.64.130 (anonymus proxy)
+4P. ¿Las ip públicas son las mismas? ¿por qué?
+4R. No, porque estamos eludiendo el ISP
+5P. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+5R. En la IP de Argentina no pudimos verlo porque no estaba habilitado, pero usando VPN si pudimos.
+6P. Utilizando Tor ¿pudimos localizar la IP ?
+6R. Nos apareció una IP que suponemos que debe ser el último servidor que envió la petición.
+7P. En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+7R. ping 29ms, descarga 84 Mbps y subida 73mbps
+8P. En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+8R. 
+ 
+
+
+
+
+
+
+
+
+
