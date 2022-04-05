@@ -1,0 +1,96 @@
+
+Zoom:
+Protocolo	Puertos	Origen
+TCP	80, 443	Todos los Zoom Clients
+TCP	443, 8801, 8802	Todos los Zoom Clients
+UDP	3478, 3479, 8801 - 8810	Todos los Zoom Clients
+
+Netflix:
+El servicio utiliza protocolos de sesión HTTP y HTTPS (SSL-443) a la CDN de NETFLIX
+
+WhatsApp:
+ tcp 53, 443,5222,5223,5228,udp53,3478
+
+Mysql:
+El puerto por defecto de MySQL es el 3306, por lo que deberías poder usar «3306» como puerto para la mayoría de las situaciones
+
+Word:
+imap 993 pop 995 smtp 587
+
+Discord:
+Se utiliza el protocolo WebSocket Secure (wss) utilizando el puerto 443
+
+Google meet:
+udp y tcp 443
+
+Skype:
+tcp 443  udp 3478-3481
+
+Git:
+El puerto TCP 9418
+
+
+Ssl:
+ tcp 443
+
+Http puerto:
+80 y el 443
+
+Epic games:
+80 433 443
+
+Fifa tcp 1935 udp 3074
+
+TeamViewer:
+prefier establecer conexiones TCP y UDP salientes a través del puerto 5938
+
+Virtual box:
+acceso ssh le decimos a través de nuestro puerto  local 2222 queremos acceder al puerto 22 de la máquina virtua
+
+Spotify
+Puertos del cortafuegos que utiliza Sonos
+Puerto (TCP)	Uso
+80 y 443	Servicios de música, radio y cuenta Sonos
+
+Visual studio code:
+tcp 4026
+
+Instagram:
+ puerto TCP 20
+
+Steam:
+udp 27000-27100 tcp 27036
+
+Configuración SMTP de Outlook:
+
+Outlook:
+Puerto: 587 (más información sobre los puertos SMTP) Requiere SSL: Sí24 jun 2021
+
+VPN:
+OpenVPN, el puerto OpenVPN que necesitaremos tener abierto es el 1194 UDP. El protocolo L2TP utiliza el puerto 1701 
+
+File transfer protocol:
+En los ordenadores, los datos del protocolo FTP se envían a través de los puertos 20 y 21,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
