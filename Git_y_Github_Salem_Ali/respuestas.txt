@@ -1,0 +1,5 @@
+4_a El sistema de control de versión Git fue inventado por Linus Torvalds, para poder llevar el registro de los cambios de un archivo, sin la necesidad de tener varias copias del mismo, logrando así tener un control sobre las versiones y coordinando el trabajo que distintas personas puedan realizar sobre el mismo.
+
+4_b Actualmente GitHub pertenece a Microsoft, lo incorporó debido a que es la plataforma mas grande de colaboración para proyectos de código abierto.
+
+4_c Si, se puede trabajar en GitHub desde múltiples medios, ya sea desde su misma página web, en aplicaciones como Visual Studio, consola de windows, o su propia consola en Git Bash, entre muchos otros.
